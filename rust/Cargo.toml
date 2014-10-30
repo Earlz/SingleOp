@@ -1,0 +1,9 @@
+[package]
+
+name = "singleop"
+version = "0.0.1"
+authors = [ "earlz <earlz@earlz.net>" ]
+
+[[bin]]
+
+name = "singleop"
